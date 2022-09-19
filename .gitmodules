@@ -8,6 +8,11 @@
 	url = https://github.com/jepusto/clubsandwich
 	shallow = true
 	registered = true
+[submodule "lmeInfo"]
+	path = lmeInfo
+	url = https://github.com/jepusto/lmeinfo
+	shallow = true
+	registered = true
 [submodule "scdhlm"]
 	path = scdhlm
 	url = https://github.com/jepusto/scdhlm
