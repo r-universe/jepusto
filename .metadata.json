@@ -1,18 +1,18 @@
 [
   {
-    "package": "clubSandwich",
-    "oncran": true
-  },
-  {
     "package": "lmeInfo",
     "oncran": true
   },
   {
-    "package": "scdhlm",
+    "package": "clubSandwich",
     "oncran": true
   },
   {
     "package": "SingleCaseES",
+    "oncran": true
+  },
+  {
+    "package": "scdhlm",
     "oncran": true
   }
 ]
