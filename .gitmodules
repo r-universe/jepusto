@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ARPobservation"]
+	path = ARPobservation
+	url = https://github.com/jepusto/arpobservation
+	shallow = true
+	registered = true
 [submodule "clubSandwich"]
 	path = clubSandwich
 	url = https://github.com/jepusto/clubsandwich

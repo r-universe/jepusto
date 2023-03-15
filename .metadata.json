@@ -1,5 +1,9 @@
 [
   {
+    "package": "ARPobservation",
+    "oncran": true
+  },
+  {
     "package": "clubSandwich",
     "oncran": true
   },
