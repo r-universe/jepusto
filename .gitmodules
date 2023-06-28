@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ARPobservation"]
 	path = ARPobservation
 	url = https://github.com/jepusto/arpobservation
-	shallow = true
-	registered = true
 [submodule "clubSandwich"]
 	path = clubSandwich
 	url = https://github.com/jepusto/clubsandwich
-	shallow = true
-	registered = true
 [submodule "lmeInfo"]
 	path = lmeInfo
 	url = https://github.com/jepusto/lmeinfo
-	shallow = true
-	registered = true
 [submodule "scdhlm"]
 	path = scdhlm
 	url = https://github.com/jepusto/scdhlm
-	shallow = true
-	registered = true
 [submodule "SingleCaseES"]
 	path = SingleCaseES
 	url = https://github.com/jepusto/singlecasees
-	shallow = true
-	registered = true
