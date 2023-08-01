@@ -5,6 +5,9 @@
 [submodule "ARPobservation"]
 	path = ARPobservation
 	url = https://github.com/jepusto/arpobservation
+[submodule "SingleCaseES"]
+	path = SingleCaseES
+	url = https://github.com/jepusto/singlecasees
 [submodule "clubSandwich"]
 	path = clubSandwich
 	url = https://github.com/jepusto/clubsandwich
@@ -14,6 +17,3 @@
 [submodule "scdhlm"]
 	path = scdhlm
 	url = https://github.com/jepusto/scdhlm
-[submodule "SingleCaseES"]
-	path = SingleCaseES
-	url = https://github.com/jepusto/singlecasees
