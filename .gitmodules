@@ -14,6 +14,9 @@
 [submodule "lmeInfo"]
 	path = lmeInfo
 	url = https://github.com/jepusto/lmeinfo
+[submodule "metaselection"]
+	path = metaselection
+	url = https://github.com/jepusto/metaselection
 [submodule "scdhlm"]
 	path = scdhlm
 	url = https://github.com/jepusto/scdhlm
